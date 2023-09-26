@@ -1,0 +1,14 @@
+C:\Users\rodri\c-sharp\quizGame\quizGame\bin\Debug\net7.0\quizGame.exe
+C:\Users\rodri\c-sharp\quizGame\quizGame\bin\Debug\net7.0\quizGame.deps.json
+C:\Users\rodri\c-sharp\quizGame\quizGame\bin\Debug\net7.0\quizGame.runtimeconfig.json
+C:\Users\rodri\c-sharp\quizGame\quizGame\bin\Debug\net7.0\quizGame.dll
+C:\Users\rodri\c-sharp\quizGame\quizGame\bin\Debug\net7.0\quizGame.pdb
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.AssemblyInfoInputs.cache
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.AssemblyInfo.cs
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.dll
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\refint\quizGame.dll
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.pdb
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\quizGame.genruntimeconfig.cache
+C:\Users\rodri\c-sharp\quizGame\quizGame\obj\Debug\net7.0\ref\quizGame.dll
